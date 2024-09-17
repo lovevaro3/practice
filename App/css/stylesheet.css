@@ -2,47 +2,56 @@
     font-family: Arial;
     display: flex;
     color: aqua;
-}
-
-.container .menu {
-    margin-left: 500px;
+    border-bottom: 2px solid #808df8;
 }
 
 .name {
+    background-color: #6266f1;
+    color: white;
     display: flex;
     flex-direction: row;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid gray;
     margin: 10px 0px 10px 70px;
+    font-size: 23px;
 
 }
 
 .menu {
     display: flex;
     flex-direction: row;
+    color: #a6b4fb;
 }
 
 .project {
-    margin: 10px 30px 10px 100px;
+    margin: 23px 40px 20px 350px;
+    font-size: 23px;
 }
 
 .about {
-    margin: 10px 30px;
+    margin: 23px 40px 20px 20px;
+    font-size: 23px;
 }
 
 .resume {
-    margin: 10px 30px;
+    margin: 23px 40px 20px 20px;
+    font-size: 23px;
 }
 
 .blog {
-    margin: 10px 30px;
+    margin: 23px 40px 20px 20px;
+    font-size: 23px;
 }
 
 .contact {
-    margin: 10px 30px;
+    margin: 23px 40px 20px 20px;
+    font-size: 23px;
 }
 
 article {
     font-family: Arial;
-    color: aqua;
+    color: #808df8;
 }
 
 h1 {
